@@ -9,7 +9,7 @@ local vuxConfig = {
     vuxCheckAcknowledge = 0,
 
     -- Mod configs
-    vuxMaxWeight = 1000,
+    vuxMaxWeight = 10000,
     vuxWeightPerSP = 250
 }
 return vuxConfig
